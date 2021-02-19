@@ -1,0 +1,6562 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Bucks Co., PA",
+          "Bucks Co. PA",
+          "Bucks Co., Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bucks Co., PA"
+      },
+      {
+        "from": [
+          "Albany N.Y.",
+          "Albany, NY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albany N.Y."
+      },
+      {
+        "from": [
+          "Adams Co., PA",
+          "Adams Co., Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adams Co., PA"
+      },
+      {
+        "from": [
+          "Amsterdam, Holland",
+          "Holland, Amsterdam"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Amsterdam, Holland"
+      },
+      {
+        "from": [
+          "Philadelphia",
+          "Philadelphia."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philadelphia"
+      },
+      {
+        "from": [
+          "Sussex Co. Delaware",
+          "Sussex Co., Delaware"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sussex Co. Delaware"
+      },
+      {
+        "from": [
+          "Carlisle, PA",
+          "Carlisle, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carlisle, PA"
+      },
+      {
+        "from": [
+          "Philadelphia Co.",
+          "Philadelphia, Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Philadelphia Co."
+      },
+      {
+        "from": [
+          "Penna.",
+          "Penna"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Penna."
+      },
+      {
+        "from": [
+          "Frederick Co, Maryland",
+          "Frederick Co., Maryland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederick Co, Maryland"
+      },
+      {
+        "from": [
+          "Lehigh Co.",
+          "Lehigh Co"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lehigh Co."
+      },
+      {
+        "from": [
+          "Mifflin, PA",
+          "Mifflin, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mifflin, PA"
+      },
+      {
+        "from": [
+          "Northampton, PA",
+          "Northampton, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northampton, PA"
+      },
+      {
+        "from": [
+          "York Co.",
+          "York, Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "York Co."
+      },
+      {
+        "from": [
+          "NJ",
+          "N.J."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NJ"
+      },
+      {
+        "from": [
+          "Bucks Co.",
+          "Bucks Co"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bucks Co."
+      },
+      {
+        "from": [
+          "Reading, PA",
+          "Reading, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reading, PA"
+      },
+      {
+        "from": [
+          "Lancaster, PA",
+          "Lancaster, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lancaster, PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Virginia",
+          "Virgina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Virginia"
+      },
+      {
+        "from": [
+          "Delaware Co.",
+          "Delware Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Delaware Co."
+      },
+      {
+        "from": [
+          "Dauphin Co.",
+          "Dauphin Co., PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dauphin Co."
+      },
+      {
+        "from": [
+          "Saxony, Germany",
+          "Saxony, Germ."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Saxony, Germany"
+      },
+      {
+        "from": [
+          "Northampton Co.",
+          "Northampton Co., PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northampton Co."
+      },
+      {
+        "from": [
+          "Albany N.Y.",
+          "Albany"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albany N.Y."
+      },
+      {
+        "from": [
+          "Harrisburg",
+          "Harrisburgh"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Harrisburg"
+      },
+      {
+        "from": [
+          "Pennsylvania",
+          "Pennsylvania [[Penna]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pennsylvania"
+      },
+      {
+        "from": [
+          "Northampton, PA",
+          "Northhampton, Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northampton, PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Wirtemberg, Germany",
+          "Wirtemburg, Germany",
+          "Wurtemburg, Germany"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wirtemberg, Germany"
+      },
+      {
+        "from": [
+          "N. Y.",
+          "NJ"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "N. Y."
+      },
+      {
+        "from": [
+          "Boston",
+          "Boaston"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boston"
+      },
+      {
+        "from": [
+          "N. Jersey",
+          "N. Jers."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "N. Jersey"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Berks Co.",
+          "W. Berks Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Berks Co."
+      },
+      {
+        "from": [
+          "Pa",
+          "[[Hepe]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pa"
+      },
+      {
+        "from": [
+          "Chambersburg",
+          "Chambersburg, PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chambersburg"
+      },
+      {
+        "from": [
+          "New Jersey",
+          "N. Jersey"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New Jersey"
+      },
+      {
+        "from": [
+          "New York",
+          "N. York"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New York"
+      },
+      {
+        "from": [
+          "Maryland",
+          "W. Maryland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maryland"
+      },
+      {
+        "from": [
+          "Cumberland Co.",
+          "Cumberland Co., PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cumberland Co."
+      },
+      {
+        "from": [
+          "New Hampshire",
+          "N. Hampshire"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New Hampshire"
+      },
+      {
+        "from": [
+          "Wilmington, Delaware",
+          "Wilmington, Dela."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wilmington, Delaware"
+      },
+      {
+        "from": [
+          "Huntingdon Co.",
+          "Huntingdon Co., PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Huntingdon Co."
+      },
+      {
+        "from": [
+          "Bucks Co.",
+          "W. Bucks Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bucks Co."
+      },
+      {
+        "from": [
+          "Wirtemberg, Germany",
+          "Wurtemburg, Germ."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Wirtemberg, Germany"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lancaster Co.",
+          "Lancaster",
+          "Lancaster, PA",
+          "Lancaster City"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lancaster Co."
+      },
+      {
+        "from": [
+          "Montgomery",
+          "Montgomery Co.",
+          "Montgomery, PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Montgomery"
+      },
+      {
+        "from": [
+          "Hanover, Germany",
+          "Hamburg, Germany",
+          "Hanover, Germ."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hanover, Germany"
+      },
+      {
+        "from": [
+          "Cumberland Co.",
+          "Cumberland, PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cumberland Co."
+      },
+      {
+        "from": [
+          "Perry Co.",
+          "Prussia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Perry Co."
+      },
+      {
+        "from": [
+          "Boston, Mass",
+          "Boston, Massachusetts"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boston, Massachusetts"
+      },
+      {
+        "from": [
+          "Bradford Co., PA",
+          "W. Bradford Co, Maryland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bradford Co., PA"
+      },
+      {
+        "from": [
+          "Long Island",
+          "Long Island, New York"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Long Island"
+      },
+      {
+        "from": [
+          "Hartford, CT",
+          "Hartford, Connecticut"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hartford, CT"
+      },
+      {
+        "from": [
+          "Northampton Co.",
+          "Northampton, PA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Northampton Co."
+      },
+      {
+        "from": [
+          "Franklin Co.",
+          "Franklin Co., Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Franklin Co."
+      },
+      {
+        "from": [
+          "Lycoming Co., PA",
+          "Lycoming, Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lycoming Co., PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Albany N.Y."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Albany, New York"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Baltimore"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Baltimore, Maryland"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Bedford"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bedford, PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Boston"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boston, Massachusetts"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Bucks Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bucks Co., PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Carlisle Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carlisle, PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Carlisle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Carlisle, PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Connect."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Connecticut"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Dauphin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dauphin Co."
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Delaware state"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Delaware"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Franklin Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Franklin Co., Maryland"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Frederick Co, Maryland"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Frederick Co., Maryland"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Hanover"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hanover, Germany"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lebanon Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lebanon Co., PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Luzerne Co."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Luzerne Co., PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "N. Y."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "New York"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pennsylvania"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Pittsburg"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Pittsburg, PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Salem, New Jersey"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Salem, NJ"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Schuylkill"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Schuylkill Co."
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Birthplace",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "West Chester"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "West Chester, PA"
+      }
+    ],
+    "description": "Mass edit cells in column Birthplace"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Age",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Age using expression value.toNumber()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads and writes; drinks; married",
+          "reads and writes, drinks, married",
+          "Reads and writes, drinks, married",
+          "reads and writes; married; drinks",
+          "drinks; married; reads and writes",
+          "reads and writes, married, drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drinks; married"
+      },
+      {
+        "from": [
+          "reads and writes, drinks, single",
+          "reads and writes; drinks; single",
+          "Reads and writes, drinks, single",
+          "reads and writes; single; drinks",
+          "reads and writes, drinks , single",
+          "reads and writes, drinks,  single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, drinks, single"
+      },
+      {
+        "from": [
+          "reads and writes; sober; single",
+          "reads and writes, sober, single",
+          "reads and writes; single; sober",
+          "Reads and writes, sober, single",
+          "Reads and writes; sober; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; sober; single"
+      },
+      {
+        "from": [
+          "reads, drinks, single",
+          "reads; drinks; single",
+          "Reads, drinks, single",
+          "Reads, single, drinks",
+          "reads; single; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, drinks, single"
+      },
+      {
+        "from": [
+          "can't read or write, drinks, single",
+          "Can't read or write, drinks, single",
+          "can't read or write; drinks; single",
+          "Can't read or write, single, drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drinks, single"
+      },
+      {
+        "from": [
+          "reads, drinks, married",
+          "reads; drinks; married",
+          "Reads, drinks, married",
+          "Reads; married; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, drinks, married"
+      },
+      {
+        "from": [
+          "Reads and writes a little, drinks, single",
+          "reads and writes a little, single, drinks",
+          "reads and writes a little; single; drinks",
+          "reads and writes; drinks a little; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads and writes a little, drinks, single"
+      },
+      {
+        "from": [
+          "Can't read or write, temperate, single",
+          "can't read or write, temperate, single",
+          "Can't read or write, single, temperate",
+          "Can't read or write, temperate,  single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, temperate, single"
+      },
+      {
+        "from": [
+          "reads, sober, married",
+          "reads, married, sober",
+          "reads; sober; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, sober, married"
+      },
+      {
+        "from": [
+          "cannot read; drinks; single",
+          "Cannot read; drinks; single",
+          "cannot read; single; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; drinks; single"
+      },
+      {
+        "from": [
+          "reads, sober, single",
+          "reads; sober; single",
+          "reads; single; sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, sober, single"
+      },
+      {
+        "from": [
+          "reads and writes; gets drunk; single",
+          "reads and writes, gets drunk, single",
+          "reads and writes; single; gets drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; single"
+      },
+      {
+        "from": [
+          "Can't read, temperate, married",
+          "can't read, married, temperate",
+          "can't read, temperate, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read, temperate, married"
+      },
+      {
+        "from": [
+          "reads and writes, temperate, married",
+          "Reads and writes, temperate, married",
+          "reads and writes, married, temperate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, temperate, married"
+      },
+      {
+        "from": [
+          "reads and writes, temperate, single",
+          "Reads and writes, temperate, single",
+          "reads and writes, single, temperate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, temperate, single"
+      },
+      {
+        "from": [
+          "Temperate, single, reads and writes German",
+          "reads and writes German, temperate, single",
+          "reads and writes, german, temperate, Single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Temperate, single, reads and writes German"
+      },
+      {
+        "from": [
+          "reads & writes, gets drunk, single",
+          "reads, writes, gets drunk, single",
+          "reads, writes, single, gets drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes, gets drunk, single"
+      },
+      {
+        "from": [
+          "Can't read or write, married, sober",
+          "Can't read or write, sober, married",
+          "can't read or write, sober, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, married, sober"
+      },
+      {
+        "from": [
+          "reads and writes; drinks; widower",
+          "reads and writes, drinks, widower",
+          "reads and writes, widower, drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drinks; widower"
+      },
+      {
+        "from": [
+          "Can't read",
+          "can't read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read"
+      },
+      {
+        "from": [
+          "reads; got drunk; single",
+          "reads, got drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; got drunk; single"
+      },
+      {
+        "from": [
+          "reads, writes, gets drunk, married",
+          "reads & writes, gets drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, gets drunk, married"
+      },
+      {
+        "from": [
+          "reads and writes; sober; married",
+          "reads and writes; married; sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; sober; married"
+      },
+      {
+        "from": [
+          "can't read or write, drunk, single",
+          "Can't read or write, drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drunk, single"
+      },
+      {
+        "from": [
+          "reads, drank, married",
+          "reads; drank; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, drank, married"
+      },
+      {
+        "from": [
+          "reads and writes; gets drunk; married",
+          "Reads and writes; gets drunk; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; married"
+      },
+      {
+        "from": [
+          "can't read or write, drinks, married",
+          "Can't read or write, drinks, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drinks, married"
+      },
+      {
+        "from": [
+          "reads; gets drunk; single",
+          "reads, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; gets drunk; single"
+      },
+      {
+        "from": [
+          "can't read, drinks, single",
+          "can't read, single, drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, drinks, single"
+      },
+      {
+        "from": [
+          "reads and writes a little; gets drunk; married",
+          "reads and writes a little; married; gets drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes a little; gets drunk; married"
+      },
+      {
+        "from": [
+          "reads a little; gets drunk; single",
+          "reads a little, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads a little; gets drunk; single"
+      },
+      {
+        "from": [
+          "cannot read; gets drunk; single",
+          "cannot read, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; gets drunk; single"
+      },
+      {
+        "from": [
+          "cannot read or write; drinks; single",
+          "cannot read or write, drinks, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; drinks; single"
+      },
+      {
+        "from": [
+          "reads & writes, married, temperate",
+          "reads & writes, temperate, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes, married, temperate"
+      },
+      {
+        "from": [
+          "reads, writes, drinks, single",
+          "reads & writes, drinks, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drinks, single"
+      },
+      {
+        "from": [
+          "reads and writes, single",
+          "reads and writes; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, single"
+      },
+      {
+        "from": [
+          "Reads, drunk, married",
+          "reads, drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads, drunk, married"
+      },
+      {
+        "from": [
+          "Can't read or write, temperate, married",
+          "can't read or write, temperate, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, temperate, married"
+      },
+      {
+        "from": [
+          "Can't read or write, gets drunk, married",
+          "can't read or write, gets drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, gets drunk, married"
+      },
+      {
+        "from": [
+          "reads and writes",
+          "Reads and writes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes"
+      },
+      {
+        "from": [
+          "reads, temperate, married",
+          "reads, married, temperate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, temperate, married"
+      },
+      {
+        "from": [
+          "reads German; gets drunk; married",
+          "reads; gets drunk; married; reads German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads German; gets drunk; married"
+      },
+      {
+        "from": [
+          "can't read, sober, single",
+          "Can't read, sober, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, sober, single"
+      },
+      {
+        "from": [
+          "reads and writes; got drunk; single",
+          "Reads and writes, got drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; got drunk; single"
+      },
+      {
+        "from": [
+          "Reads and writes, temperate",
+          "reads and writes; temperate"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads and writes, temperate"
+      },
+      {
+        "from": [
+          "reads and writes; married; drank",
+          "reads and writes; drank; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; married; drank"
+      },
+      {
+        "from": [
+          "cannot read or write; drinks; single; learned to read",
+          "cannot read or write; single; drinks; learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; drinks; single; learned to read"
+      },
+      {
+        "from": [
+          "Cannot read; drinks; single; reads German",
+          "cannot read; drinks; single; reads German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cannot read; drinks; single; reads German"
+      },
+      {
+        "from": [
+          "reads, writes, sober, married",
+          "reads, writes, married, sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, sober, married"
+      },
+      {
+        "from": [
+          "reads; drinks; widow",
+          "reads, drinks, widow"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; drinks; widow"
+      },
+      {
+        "from": [
+          "can't read or write, gets drunk, single",
+          "can't read or write; gets drunk; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, gets drunk, single"
+      },
+      {
+        "from": [
+          "reads & writes, drunk, single",
+          "reads, writes, drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes, drunk, single"
+      },
+      {
+        "from": [
+          "cannot read; drinks; married",
+          "cannot read; married; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; drinks; married"
+      },
+      {
+        "from": [
+          "Can read",
+          "can read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read"
+      },
+      {
+        "from": [
+          "reads & writes German, sober, married",
+          "reads writes German, married, sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes German, sober, married"
+      },
+      {
+        "from": [
+          "reads, writes, drinks, married",
+          "reads & writes, drinks, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drinks, married"
+      },
+      {
+        "from": [
+          "reads, writes, drunk, married",
+          "reads & writes, drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, drunk, married"
+      },
+      {
+        "from": [
+          "cannot read or write; gets drunk; single",
+          "cannot read or write, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; gets drunk; single"
+      },
+      {
+        "from": [
+          "reads, writes, single, temperate",
+          "reads, writes, temperate, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, single, temperate"
+      },
+      {
+        "from": [
+          "reads a little, drinks, married",
+          "reads a little; married; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads a little, drinks, married"
+      },
+      {
+        "from": [
+          "reads, single, drank",
+          "reads; drank; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, single, drank"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can't read or write, drinks, single",
+          "cannot read or write; drinks; single",
+          "cannot read or write; drinks; single; can read",
+          "cannot read or write; drinks; single; learned to read",
+          "Can't read or write, drink, single",
+          "can't read or write, drank, single",
+          "can't read or write, drinks, single, reads [[little]]",
+          "can't read or write; drinks; single; learned to read",
+          "can't read or writes, drinks, single",
+          "cannot read or write; drinks; single; reads"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drinks, single"
+      },
+      {
+        "from": [
+          "can't read or write, drunk, single",
+          "cannot read or write; gets drunk; single",
+          "cannot read or write; got drunk; single",
+          "can't read or write, gets drunk, single",
+          "can't read or write; gets drunk; widower; learned to read",
+          "cannot read or write, drunk, single",
+          "cannot read or write; single; gets drunk; can read a little",
+          "cannot read; gets drunk; single; can read now"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drunk, single"
+      },
+      {
+        "from": [
+          "can't read or write, drinks, married",
+          "cannot read or write; drinks; married",
+          "can't read or write, drinks, married, reads",
+          "cannot read or write, drank, widowed, reads some",
+          "cannot read or write; drank some; married",
+          "cannot read or write; drinks; married; can read",
+          "cannot read; drinks; married; reads now",
+          "reads, drinks, married, cannot read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drinks, married"
+      },
+      {
+        "from": [
+          "reads and writes; gets drunk; single",
+          "reads & writes, gets drunk, single",
+          "reads & writes, drunk, single",
+          "Reads and writes, drunks, single",
+          "reads and writes a little; gets drunk; single",
+          "reads and writes, drinks and gets drunk, single",
+          "reads and writes, drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; single"
+      },
+      {
+        "from": [
+          "reads and writes, drinks, single",
+          "reads, writes, drinks, single",
+          "Reads and writes a little, drinks, single",
+          "reads, writes, drink, single",
+          "read, writes, drink, single",
+          "reads & writes a letter, drinks, single",
+          "reads and writes; drinks; is single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, drinks, single"
+      },
+      {
+        "from": [
+          "reads and writes, temperate, single",
+          "Temperate, single, reads and writes German",
+          "reads, writes, single, temperate",
+          "Reads and writes, intemperate, single",
+          "reads & writes German, temperate, single",
+          "reads, writes a little, temperate, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, temperate, single"
+      },
+      {
+        "from": [
+          "cannot read; drinks; single",
+          "cannot read; drinks; single; learning to read",
+          "Cannot read [[etc]]; single; drinks",
+          "cannot read; drank; single",
+          "cannot read; drink; single",
+          "cannot read; drinks; single; reads"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; drinks; single"
+      },
+      {
+        "from": [
+          "cannot read; gets drunk sometimes; has learned to read and write arithmatic",
+          "reads and writes; drunk sometimes; single; catholic",
+          "reads and writes; gets drunk; married; Irish Catholic",
+          "reads, writes, gets drunk, married, no child",
+          "reads; gets drunk; married; learned to write; wants slate to learn arithmatic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; gets drunk sometimes; has learned to read and write arithmatic"
+      },
+      {
+        "from": [
+          "Can read a little; has learned to read in prison",
+          "Can't read; has learned in prison",
+          "Cannot read; has learned in prison",
+          "cannot read; can read; has learned to read in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read a little; has learned to read in prison"
+      },
+      {
+        "from": [
+          "can spell; gets drunk; single; reads learned in prison",
+          "cannot read; gets drunk; single; reads a little learned in prison",
+          "cannot read; gets drunk; single; spelling reading",
+          "cannot read; got drunk; single; learned to read in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can spell; gets drunk; single; reads learned in prison"
+      },
+      {
+        "from": [
+          "cannot read or write; drank some; married; learned to read",
+          "cannot read or write; drinks a little; married",
+          "cannot read; drank seldom; widower",
+          "cannot read; drank some; widower; learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; drank some; married; learned to read"
+      },
+      {
+        "from": [
+          "reads and writes German; got drunk; married",
+          "reads and writes; got drunk; married",
+          "reads and writes; widower; got drunk at times",
+          "reads, writes, drank & got drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes German; got drunk; married"
+      },
+      {
+        "from": [
+          "Can't read or write, gets drunk, married",
+          "Cannot read or write; gets drunk; married",
+          "Cannot read or write; got drunk sometimes; married; can read",
+          "cannot read or writes; gets drunk; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, gets drunk, married"
+      },
+      {
+        "from": [
+          "reads and writes; gets drunk; widower",
+          "reads, writes, gets drunk, widower",
+          "reads, writes, gets drunk, widow",
+          "reads; got drunk; widow"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; widower"
+      },
+      {
+        "from": [
+          "reads and writes, temperate, married",
+          "Reads and writes, temperate",
+          "reads and wirtes, temperate, married",
+          "reads and writes, intemperate, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, temperate, married"
+      },
+      {
+        "from": [
+          "reads and writes; got drunk; single",
+          "Reads and writes a little; gets drunk; widower",
+          "reads & writes, got drunk, single",
+          "reads and writes; single; does not get drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; got drunk; single"
+      },
+      {
+        "from": [
+          "reads and writes; drinks; married",
+          "reads, writes, drinks, married",
+          "reads and writes; married; drank",
+          "reads, writes, drink, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drinks; married"
+      },
+      {
+        "from": [
+          "reads, drinks, single",
+          "reads, drink, single",
+          "reads, single, drank",
+          "reads; is single; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, drinks, single"
+      },
+      {
+        "from": [
+          "reads; gets drunk; single",
+          "reads a little; gets drunk; single",
+          "Reads, drinks and gets drunk, single",
+          "Reads, drinks, gets drunk, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; gets drunk; single"
+      },
+      {
+        "from": [
+          "reads and writes; sober; single",
+          "reads, writes, sober, single",
+          "reads & writes a little, sober, single",
+          "reads and writes a little; sober; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; sober; single"
+      },
+      {
+        "from": [
+          "reads and writes; drinks; widower",
+          "read, writes, drinks, widower",
+          "reads, writes, drink, widower",
+          "reads, writes, drinks, widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drinks; widower"
+      },
+      {
+        "from": [
+          "can't read, gets drunk, single",
+          "Can read a little; gets drunk",
+          "can read; gets drunk; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, gets drunk, single"
+      },
+      {
+        "from": [
+          "can't read or write, sober, single",
+          "cannot read or write; sober; single",
+          "cannot read or write; sober; single; reads"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, sober, single"
+      },
+      {
+        "from": [
+          "cannot read or write; sober; married; reads learned in prison",
+          "cannot read; married; sober; can't spell and will not learn",
+          "cannot read; sober; married; learned to read and write in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; sober; married; reads learned in prison"
+      },
+      {
+        "from": [
+          "Can't read or write",
+          "Cannot read or write",
+          "cannot read or write; can now read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write"
+      },
+      {
+        "from": [
+          "cannot read; gets drunk; married; learned to spell",
+          "cannot read; got drunk; married; learned to spell",
+          "cannot read; married; gets drunk; learned to read in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; gets drunk; married; learned to spell"
+      },
+      {
+        "from": [
+          "cannot read or write; drank some; single; spelling; learning to read; reads now",
+          "cannot read or write; drank; married; is spelling",
+          "cannot read or write; drinks; married; learning to spell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; drank some; single; spelling; learning to read; reads now"
+      },
+      {
+        "from": [
+          "reads and writes; gets drunk; married",
+          "reads, writes, gets drunk, married",
+          "reads and writes German; married; gets drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; gets drunk; married"
+      },
+      {
+        "from": [
+          "Can't read or write, temperate, married",
+          "Can't read or write, temperate",
+          "Intemperate, married, can't read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, temperate, married"
+      },
+      {
+        "from": [
+          "reads and writes, drunk, married",
+          "reads, writes, drunk, married",
+          "reads and writes; unmarried; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, drunk, married"
+      },
+      {
+        "from": [
+          "doesn't read or write, temperate, married",
+          "reads and writes, temperate, widow",
+          "reads and writes, temperate, widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "doesn't read or write, temperate, married"
+      },
+      {
+        "from": [
+          "can't read or write, gets drunk, single, can read some",
+          "cannot read or write; gets drunk; married; learned to read",
+          "cannot read or write; gets drunk; single; can read testament"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, gets drunk, single, can read some"
+      },
+      {
+        "from": [
+          "reads; drinks; widow",
+          "reads, drink, widowed",
+          "reads, drinks, widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; drinks; widow"
+      },
+      {
+        "from": [
+          "Can't read or write; learned to read in prison",
+          "can't read or write; Can read learned in prison",
+          "can't read; learned to read and write in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write; learned to read in prison"
+      },
+      {
+        "from": [
+          "can't read or write; gets drunk; single; has learned to read",
+          "cannot read; gets drunk; single; has learned to read and write",
+          "reads and writes; single; got drunk when he could"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write; gets drunk; single; has learned to read"
+      },
+      {
+        "from": [
+          "reads a little, drinks, married",
+          "reads; drank a little; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads a little, drinks, married"
+      },
+      {
+        "from": [
+          "reads, temperate, single",
+          "reads a little, temperate, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, temperate, single"
+      },
+      {
+        "from": [
+          "Cannot read or write, drinks, married with 5 children",
+          "can't read or write, drinks, married, 5 children"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cannot read or write, drinks, married with 5 children"
+      },
+      {
+        "from": [
+          "Cannot read; drinks; single; reads learned in prison",
+          "cannot read; drinks a little; single; spells; learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cannot read; drinks; single; reads learned in prison"
+      },
+      {
+        "from": [
+          "reads; got drunk; single",
+          "reads a little; did not get drunk; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; got drunk; single"
+      },
+      {
+        "from": [
+          "reads; gets drunk; married",
+          "reads German; gets drunk; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; gets drunk; married"
+      },
+      {
+        "from": [
+          "reads & writes, married, temperate",
+          "reads, writes, temp, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes, married, temperate"
+      },
+      {
+        "from": [
+          "Can't read or write, widow, drunk",
+          "can't read or write, drunk, widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, widow, drunk"
+      },
+      {
+        "from": [
+          "reads only; gets drunk; married",
+          "reads only; got drunk; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads only; gets drunk; married"
+      },
+      {
+        "from": [
+          "Reads; got drunk sometimes; single",
+          "gets drunk; single; learned to read in Testament; Learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads; got drunk sometimes; single"
+      },
+      {
+        "from": [
+          "reads and writes; drank some; single",
+          "reads and writes; drinks some; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drank some; single"
+      },
+      {
+        "from": [
+          "Can read and write; single",
+          "can't read & write, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read and write; single"
+      },
+      {
+        "from": [
+          "can't read, sober, single",
+          "cannot read; sober; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, sober, single"
+      },
+      {
+        "from": [
+          "Can't read or write, married",
+          "cannot read or write; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, married"
+      },
+      {
+        "from": [
+          "can't read or write, drunk, married",
+          "cannot read or write, drunk, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, drunk, married"
+      },
+      {
+        "from": [
+          "can't read or write, sober",
+          "can't read or write, sober, widowed"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write, sober"
+      },
+      {
+        "from": [
+          "cannot read or write; got drunk; married; spelling in letter",
+          "cannot read; gets drunk; married; now spells and reads some"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; got drunk; married; spelling in letter"
+      },
+      {
+        "from": [
+          "reads and writes; sober; widower",
+          "reads and writes, sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; sober; widower"
+      },
+      {
+        "from": [
+          "reads, writes, married, drinks hard at times",
+          "white, reads, drinks, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, writes, married, drinks hard at times"
+      },
+      {
+        "from": [
+          "reads; gets drunk; single; reads learned in prison",
+          "reads; is single; drinks and gets drunk; learned to read in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads; gets drunk; single; reads learned in prison"
+      },
+      {
+        "from": [
+          "can read and write; gets drunk; single",
+          "can read and write a little; gets drunk; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read and write; gets drunk; single"
+      },
+      {
+        "from": [
+          "reads a little; drinks; single; spells only",
+          "spells only; drinks a little; single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads a little; drinks; single; spells only"
+      },
+      {
+        "from": [
+          "reads, drinks, married",
+          "reads, drank, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, drinks, married"
+      },
+      {
+        "from": [
+          "cannot read; drinks; married",
+          "can't read, drinks some, married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; drinks; married"
+      },
+      {
+        "from": [
+          "reads or writes, temperate, married",
+          "reads, writes, temperate, widower"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads or writes, temperate, married"
+      },
+      {
+        "from": [
+          "Can't read or write, temperate, single",
+          "cannot read or write, temperate, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, temperate, single"
+      },
+      {
+        "from": [
+          "cannot read; drinks; single; don't wish to learn",
+          "reads and writes, drinks, single, catholic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; drinks; single; don't wish to learn"
+      },
+      {
+        "from": [
+          "Can't read, temperate, single",
+          "reads, can read a little, temperate, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read, temperate, single"
+      },
+      {
+        "from": [
+          "reads and writes German; gets drunk; single",
+          "reads and writes a little; gets drunk; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes German; gets drunk; single"
+      },
+      {
+        "from": [
+          "reads and writes; drank some; married",
+          "reads and writes; married; drinks some"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes; drank some; married"
+      },
+      {
+        "from": [
+          "Cannot read; gets drunk sometimes; single; catholic",
+          "can't read; gets drunk sometimes; single; has learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cannot read; gets drunk sometimes; single; catholic"
+      },
+      {
+        "from": [
+          "reads, married",
+          "reads; is married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads, married"
+      },
+      {
+        "from": [
+          "Can't read or write; has learned to read",
+          "Cannot read or write; has learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write; has learned to read"
+      },
+      {
+        "from": [
+          "cannot read or write; drank some; single",
+          "cannot read or write; drinks; married; learning to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write; drank some; single"
+      },
+      {
+        "from": [
+          "cannot read; gets drunk; Married; can read a little",
+          "cannot read; gets drunk; married; learned to read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read; gets drunk; Married; can read a little"
+      },
+      {
+        "from": [
+          "can't read, drinks, single",
+          "can't read, drinks little, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read, drinks, single"
+      },
+      {
+        "from": [
+          "reads & writes German, sober, married",
+          "reads and writes German; sober; married"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads & writes German, sober, married"
+      },
+      {
+        "from": [
+          "Reads, drunk, married",
+          "reads; unmarried; drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads, drunk, married"
+      },
+      {
+        "from": [
+          "Can't read or write, drinks, married and one child",
+          "reads and writes, drinks, married, catholic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write, drinks, married and one child"
+      },
+      {
+        "from": [
+          "reads and writes, temperate, married, two children in Philadelphia",
+          "reads and writes, temperate, widowed, Roman Catholic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, temperate, married, two children in Philadelphia"
+      },
+      {
+        "from": [
+          "reads and writes, drinks, married, 3 children",
+          "reads, writes, drinks, married, 3 children"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes, drinks, married, 3 children"
+      },
+      {
+        "from": [
+          "reads a little; sober; single",
+          "reads little, sober, single"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads a little; sober; single"
+      },
+      {
+        "from": [
+          "Can't read",
+          "Can read [[etc]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read"
+      },
+      {
+        "from": [
+          "Cannot read; drinks; single; reads German",
+          "Single, drank some, can't read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cannot read; drinks; single; reads German"
+      }
+    ],
+    "description": "Mass edit cells in column ColumnNote"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "ColumnNote",
+    "expression": "grel:value.replace(\",\", \";\")",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column ColumnNote using expression grel:value.replace(\",\", \";\")"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "ColumnNote",
+    "guessCellType": true,
+    "removeOriginalColumn": false,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column ColumnNote by separator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "ColumnNote 1",
+    "newColumnName": "Literacy",
+    "description": "Rename column ColumnNote 1 to Literacy"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "ColumnNote 2",
+    "newColumnName": "Sobriety",
+    "description": "Rename column ColumnNote 2 to Sobriety"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "ColumnNote 3",
+    "newColumnName": "Marriage Status",
+    "description": "Rename column ColumnNote 3 to Marriage Status"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ColumnNote 6",
+    "description": "Remove column ColumnNote 6"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "ColumnNote 5",
+    "expression": "grel:cells[\"ColumnNote 4\"].value + \";\" + cells[\"ColumnNote 5\"].value",
+    "onError": "set-to-blank",
+    "newColumnName": "Extra",
+    "columnInsertIndex": 17,
+    "description": "Create column Extra at index 17 based on column ColumnNote 5 using expression grel:cells[\"ColumnNote 4\"].value + \";\" + cells[\"ColumnNote 5\"].value"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ColumnNote 4",
+    "description": "Remove column ColumnNote 4"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ColumnNote 5",
+    "description": "Remove column ColumnNote 5"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Reads German",
+          "reads German",
+          "reads german"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Reads German"
+      },
+      {
+        "from": [
+          "can spell",
+          "Can spell"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can spell"
+      },
+      {
+        "from": [
+          "reads only",
+          "Reads only"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads only"
+      },
+      {
+        "from": [
+          "Can't read or writes",
+          "can't read or writes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can't read or write"
+      },
+      {
+        "from": [
+          "can't read or write",
+          "Can't read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      },
+      {
+        "from": [
+          "Can read",
+          "can read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read"
+      },
+      {
+        "from": [
+          "Can read and write",
+          "can read and write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read and write"
+      },
+      {
+        "from": [
+          "cannot read or write",
+          "Cannot read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "cannot read or write"
+      },
+      {
+        "from": [
+          "Can read a little",
+          "can read a little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read a little"
+      },
+      {
+        "from": [
+          "reads and writes a little",
+          "Reads and writes a little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes a little"
+      },
+      {
+        "from": [
+          "reads",
+          "Reads"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read"
+      },
+      {
+        "from": [
+          "reads and writes",
+          "Reads and writes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes"
+      },
+      {
+        "from": [
+          "reads and writes German",
+          "Reads and writes German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes German"
+      },
+      {
+        "from": [
+          "can't read",
+          "Can't read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read"
+      },
+      {
+        "from": [
+          "cannot read",
+          "Cannot read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can't read or write",
+          "Can't read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      },
+      {
+        "from": [
+          "can read",
+          "Can read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads and writes German",
+          "reads & writes German"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes German"
+      },
+      {
+        "from": [
+          "can't read or write",
+          "cannot read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      },
+      {
+        "from": [
+          "Can read a little",
+          "Can read little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read a little"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "can't read or write",
+          "cannot read or write English",
+          "cannot read or writel gets drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      },
+      {
+        "from": [
+          "Can read and write",
+          "Can read and write a little"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Can read and write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "cannot read [[etc]]"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "doesn't read or write"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read or write"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Could not read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can't read"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "spells only"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "spells"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "reads & writes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "reads and writes"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Literacy",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "read"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "can read"
+      }
+    ],
+    "description": "Mass edit cells in column Literacy"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " German",
+          " german"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " German"
+      },
+      {
+        "from": [
+          " sober",
+          " Sober"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " sober"
+      },
+      {
+        "from": [
+          " drinks",
+          "drinks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drinks"
+      },
+      {
+        "from": [
+          " drunk often",
+          " often drunk"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drunk often"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " gets drunk sometimes",
+          " got drunk sometimes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " gets drunk sometimes"
+      },
+      {
+        "from": [
+          " drank occasionally",
+          " drinks occasionally"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drank occasionally"
+      },
+      {
+        "from": [
+          " gets drunk",
+          " gets drunks"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " gets drunk"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drunk",
+          " drink",
+          " drank"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drinks"
+      },
+      {
+        "from": [
+          " drank occasionally",
+          " drunk occasionally"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drank occasionally"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " drank some",
+          " drinks some",
+          " drunk sometimes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drank some"
+      },
+      {
+        "from": [
+          " drinks often",
+          " drinks but does not get drunk",
+          " drinks wine"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drinks often"
+      },
+      {
+        "from": [
+          " gets drunk",
+          " gets drunk sometimes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " gets drunk"
+      },
+      {
+        "from": [
+          " drinks a little",
+          " drinks seldom"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": " drinks a little"
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sobriety",
+          "expression": "value",
+          "columnName": "Sobriety",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": " can now read",
+                "l": " can now read"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "Extra",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "can now read"
+      }
+    ],
+    "description": "Mass edit cells in column Extra"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sobriety",
+          "expression": "value",
+          "columnName": "Sobriety",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": " writes",
+                "l": " writes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "Extra",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "writes"
+      }
+    ],
+    "description": "Mass edit cells in column Extra"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sobriety",
+          "expression": "value",
+          "columnName": "Sobriety",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": " can join 2 and 3 letters",
+                "l": " can join 2 and 3 letters"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "Extra",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": " can join 2 and 3 letters"
+      }
+    ],
+    "description": "Mass edit cells in column Extra"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sobriety",
+          "expression": "value",
+          "columnName": "Sobriety",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": " learned to read in prison",
+                "l": " learned to read in prison"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "Extra",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": " learned to read in prison"
+      }
+    ],
+    "description": "Mass edit cells in column Extra"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sobriety",
+          "expression": "value",
+          "columnName": "Sobriety",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": " learned to read in prison",
+                "l": " learned to read in prison"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " learned to read in prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column Sobriety"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sobriety",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sobriety using expression value.trim()"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "EthnicityReligionOccupation",
+    "guessCellType": true,
+    "removeOriginalColumn": true,
+    "mode": "separator",
+    "separator": ";",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column EthnicityReligionOccupation by separator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "EthnicityReligionOccupation 2",
+    "newColumnName": "Religion",
+    "description": "Rename column EthnicityReligionOccupation 2 to Religion"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "EthnicityReligionOccupation 3",
+    "newColumnName": "Occupation",
+    "description": "Rename column EthnicityReligionOccupation 3 to Occupation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "EthnicityReligionOccupation 1",
+    "newColumnName": "Ethnicity",
+    "description": "Rename column EthnicityReligionOccupation 1 to Ethnicity"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Religion",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          " Blacksmith"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "blacksmith"
+      }
+    ],
+    "description": "Mass edit cells in column Religion"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Religion",
+          "expression": "value",
+          "columnName": "Religion",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": " Female",
+                "l": " Female"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Religion",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "Gender",
+    "columnInsertIndex": 5,
+    "description": "Create column Gender at index 5 based on column Religion using expression grel:value"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Ethnicity",
+          "expression": "value",
+          "columnName": "Ethnicity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Blacksmith",
+                "l": "Blacksmith"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "Occupation",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Blacksmith"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Blacksmith"
+      }
+    ],
+    "description": "Mass edit cells in column Occupation"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Ethnicity",
+          "expression": "value",
+          "columnName": "Ethnicity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Catholic",
+                "l": "Catholic"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "Religion",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Catholic"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Catholic"
+      }
+    ],
+    "description": "Mass edit cells in column Religion"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Ethnicity",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Mullatto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mulatto"
+      }
+    ],
+    "description": "Mass edit cells in column Ethnicity"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Ethnicity",
+          "expression": "value",
+          "columnName": "Ethnicity",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [],
+          "selectBlank": true,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Gender",
+          "expression": "value",
+          "columnName": "Gender",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Female",
+                "l": "Female"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "columnName": "AdmissionDate",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column AdmissionDate using expression value.toDate()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1 yr from Aug 21"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1 yr"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1 yr 10 days from 10th of Feb."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1 yr 10 days"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1 yr and 1 day"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1 yr & 1 day"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "12 yrs (2 indictments of 6 yrs)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "12 yrs "
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "13 mos from 14th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "13 mos "
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "16 mos from 13th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "16 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "17 mos from Dec. 2nd"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "17 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "18 mos from 18 Sept"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "18 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "18 mos from 18 Sept."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "18  mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "18 mos."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "18 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "19 yrs (3 convictions)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "19 yrs "
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs + 3 to County prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs from Dec 15"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "20 yrs (4 convictions of 5 yrs)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "20 yrs "
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs from 22nd"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs from the 24th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 yrs from 17th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "4 yrs from Sept 15th 1837"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4 yrs "
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "4 yrs from the 10th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "4 yrs from the 15th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4 yrs "
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 yrs from the 17th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs "
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 yrs from Dec 15"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 yrs from Sep 21"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 yrs from 19th"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "6 + 5 = 11 yrs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "11 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "6 yrs + 3= 9 yrs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "9 yes"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "9 yes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "9 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "7 yrs on 6 indictments"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "7 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "7 yrs, 3 to County prison"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "7 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1 yr & 1 day"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1 yr 1 day"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "9 yrs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "9 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "9 yrs and 2 days"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "9 yrs 2 days"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "3 yrs",
+                "l": "3 yrs"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Sentencing",
+    "expression": "grel:value.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "Months",
+    "columnInsertIndex": 13,
+    "description": "Create column Months at index 13 based on column Sentencing using expression grel:value.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Months",
+    "description": "Remove column Months"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Sentencing",
+    "expression": "grel:value.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "Months",
+    "columnInsertIndex": 13,
+    "description": "Create column Months at index 13 based on column Sentencing using expression grel:value.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toDate()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "Sentencing",
+    "expression": "grel:sum([value * 12, cells.Months.value])",
+    "onError": "set-to-blank",
+    "newColumnName": "Sentences in Months",
+    "columnInsertIndex": 13,
+    "description": "Create column Sentences in Months at index 13 based on column Sentencing using expression grel:sum([value * 12, cells.Months.value])"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Sentences in Months",
+    "description": "Remove column Sentences in Months"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toString()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toString()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "5 yrs 3 mos",
+          "5 yrs 3 mos.",
+          "5 yrs, 3 mos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "5 yrs 3 mos"
+      },
+      {
+        "from": [
+          "12 yrs",
+          "12 yrs "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "12 yrs"
+      },
+      {
+        "from": [
+          "3 yrs",
+          "3 yrs "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs"
+      },
+      {
+        "from": [
+          "18 mos",
+          "18  mos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "18 mos"
+      },
+      {
+        "from": [
+          "4 yrs",
+          "4 yrs "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "4 yrs"
+      },
+      {
+        "from": [
+          "13 mos",
+          "13 mos "
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "13 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "5 yrs",
+          "5yrs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "5 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "1 yr 3 mos",
+          "13 yrs 1 mos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "1 yr 3 mos"
+      },
+      {
+        "from": [
+          "12 yrs",
+          "21 yrs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "12 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toDate()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Months",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "join ([coalesce(cells['Sentencing'].value,''),coalesce(cells['Months'].value,'')],'')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression join ([coalesce(cells['Sentencing'].value,''),coalesce(cells['Months'].value,'')],'')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 mos3"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "5 yrs 3 mos3"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "5 yrs 3 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "5 yrs 7 mos7"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "5 yrs 7 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "6 yrs 6 mos6"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "6 yrs 6 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toDate()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toUppercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toUppercase()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toLowercase()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 yrs 3 mos3"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs 3 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 yrs 6 mos6"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs 6 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "3 yrs and 4 mos4"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "3 yrs and 4 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "6 mos6"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "6 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "11 yrs 5 mos5"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "11 yrs 5 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "18 mos18"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "18 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "16 mos16"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "16 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "17 mos17"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "17 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 mos2"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs 2 mos2"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs 2 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs 3 mos3"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs 3 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs 4 mos4"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs 4 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs 5 mos5"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs 5 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs 6 mos6"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs 6 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs and 4 mos4"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs and 4 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs and 6 mos6"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs and 6 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs 8 mos8"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs 8 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "2 yrs 9 mos9"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2 yrs 9 mos"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "17 mos",
+                "l": "17 mos"
+              }
+            },
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "17 mos",
+                "l": "17 mos"
+              }
+            },
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "17 mos",
+                "l": "17 mos"
+              }
+            },
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "AdmissionDate",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column AdmissionDate using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "SentencingLocation",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column SentencingLocation using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Months",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Months",
+    "expression": "grel:sum([value * 12, cells.Months.value])",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression grel:sum([value * 12, cells.Months.value])"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toUppercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toUppercase()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toLowercase()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toLowercase()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toDate()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toDate()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.replace(/\\s+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.replace(/\\s+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toString()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toString()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "PrisonerNumber",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column PrisonerNumber using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.unescape('html')",
+    "onError": "keep-original",
+    "repeat": true,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.unescape('html')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr",
+                "l": "1 yr"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toDate()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toDate()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Months",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Months",
+    "expression": "value.toString()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression value.toString()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Months",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/fill-down",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "description": "Fill down cells in column Sentencing"
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "Sentencing",
+    "keyColumnName": "FirstName",
+    "separator": ", ",
+    "description": "Join multi-valued cells in column Sentencing"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "10 yrs"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "10"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "10"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "10 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "12"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "12 yrs"
+      }
+    ],
+    "description": "Mass edit cells in column Sentencing"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Months",
+    "expression": "value.toDate()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression value.toDate()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Months",
+    "expression": "value.toString()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression value.toString()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Months",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Months",
+    "description": "Remove column Months"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Sentencing",
+    "expression": "grel:valuevalue.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "Months",
+    "columnInsertIndex": 13,
+    "description": "Create column Months at index 13 based on column Sentencing using expression grel:valuevalue.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "13 mos13",
+                "l": "13 mos13"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Months",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Months",
+    "description": "Remove column Months"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "13 mos13",
+                "l": "13 mos13"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Sentencing",
+    "expression": "grel:value.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "Months",
+    "columnInsertIndex": 13,
+    "description": "Create column Months at index 13 based on column Sentencing using expression grel:value.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "13 mos13",
+                "l": "13 mos13"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Months",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "13 mos13",
+                "l": "13 mos13"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Sentencing",
+          "expression": "value",
+          "columnName": "Sentencing",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "1 yr 3 mos3",
+                "l": "1 yr 3 mos3"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Months",
+    "description": "Remove column Months"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Sentencing",
+    "expression": "grel:value.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "Months",
+    "columnInsertIndex": 13,
+    "description": "Create column Months at index 13 based on column Sentencing using expression grel:value.find(/([0-9]+)\\s(mos+)/).join(\"\").replace(\"mos\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Months",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Months using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Sentencing",
+    "expression": "grel:value.find(/([0-9]+)\\s(yrs+)/).join(\"\").replace(\"yrs\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "Sentencing #",
+    "columnInsertIndex": 13,
+    "description": "Create column Sentencing # at index 13 based on column Sentencing using expression grel:value.find(/([0-9]+)\\s(yrs+)/).join(\"\").replace(\"yrs\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing #",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing # using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Sentencing #",
+    "expression": "grel:sum([value * 12, cells.Months.value])",
+    "onError": "set-to-blank",
+    "newColumnName": "Sentence in Months",
+    "columnInsertIndex": 14,
+    "description": "Create column Sentence in Months at index 14 based on column Sentencing # using expression grel:sum([value * 12, cells.Months.value])"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Sentencing #",
+    "description": "Remove column Sentencing #"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Sentencing",
+    "expression": "grel:value.find(/([0-9]+)\\s(yr+)/).join(\"\").replace(\"yr\",\"\")",
+    "onError": "set-to-blank",
+    "newColumnName": "Sentencing #",
+    "columnInsertIndex": 13,
+    "description": "Create column Sentencing # at index 13 based on column Sentencing using expression grel:value.find(/([0-9]+)\\s(yr+)/).join(\"\").replace(\"yr\",\"\")"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing #",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing # using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "PrisonerNumber",
+    "expression": "value.toString()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column PrisonerNumber using expression value.toString()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing",
+    "expression": "value.toString()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing using expression value.toString()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Sentencing #",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Sentencing # using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Sentence in Months",
+    "description": "Remove column Sentence in Months"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Sentencing #",
+    "expression": "grel:sum([value * 12, cells.Months.value])",
+    "onError": "set-to-blank",
+    "newColumnName": "Sentence in Months",
+    "columnInsertIndex": 14,
+    "description": "Create column Sentence in Months at index 14 based on column Sentencing # using expression grel:sum([value * 12, cells.Months.value])"
+  }
+]
